@@ -3,7 +3,7 @@
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
 ## NAME : ARAVIND P
 ## REGISTER NUMBER : 212224240015
-## DATE : 14-02-2026
+## DATE : 11-03-2026
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
